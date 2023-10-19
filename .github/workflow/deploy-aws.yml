@@ -3,7 +3,7 @@ on:
   push:
     branches:
       - main
-      - "Docker-compose-CI/CD-AWS-Beanstalk"
+        - "Docker-compose-CI/CD-AWS-Beanstalk"
 
 jobs:
   deploy:
